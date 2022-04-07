@@ -1,0 +1,240 @@
+{
+  "products": [
+    {
+      "id": "12345",
+      "name": "Macarrão spagetti a bolonhesa",
+      "price": "35,00",
+      "img": "assets/prato1.png"
+    },
+    {
+      "id": "12346",
+      "name": "Macarrão alho e oleo",
+      "price": "45,00",
+      "img": "assets/prato2.png"
+    },
+    {
+      "id": "12347",
+      "name": "Macarrão quatro queijos",
+      "price": "55,00",
+      "img": "assets/prato3.png"
+    },
+    {
+      "id": "12348",
+      "name": "Feijoada completa com carne seca",
+      "price": "65,00",
+      "img": "assets/prato4.png"
+    },
+    {
+      "id": "12349",
+      "name": "Bife a cavalo com ovo frito e fritas",
+      "price": "50,00",
+      "img": "assets/prato5.png"
+    },
+    {
+      "id": "12351",
+      "name": "Bife de frango a milanesa",
+      "price": "50,00",
+      "img": "assets/prato6.png"
+    }
+  ],
+  "orders": [
+    {
+      "name": "Nicholas, Mesa 10",
+      "obs": "tirar o picles",
+      "optionPayment": "Cartão",
+      "moneyHand": "",
+      "orderItems": [
+        {
+          "id": "12345",
+          "name": "Macarrão spagetti a bolonhesa",
+          "price": "35,00",
+          "img": "assets/prato1.png",
+          "status": "Completed"
+        },
+        {
+          "id": "12346",
+          "name": "Macarrão alho e oleo",
+          "price": "45,00",
+          "img": "assets/prato2.png",
+          "status": "Completed"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Vanessa, Mesa 11",
+      "obs": "molho extra",
+      "optionPayment": "Dinheiro",
+      "moneyHand": "200,00",
+      "orderItems": [
+        {
+          "id": "12347",
+          "name": "Macarrão quatro queijos",
+          "price": "55,00",
+          "img": "assets/prato3.png",
+          "status": "Completed"
+        },
+        {
+          "id": "12348",
+          "name": "Feijoada completa com carne seca",
+          "price": "65,00",
+          "img": "assets/prato4.png",
+          "status": "Completed"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Fernando",
+      "obs": "trazer pimenta",
+      "optionPayment": "Dinheiro",
+      "moneyHand": "150,00",
+      "orderItems": [
+        {
+          "id": "12349",
+          "name": "Bife a cavalo com ovo frito e fritas",
+          "price": "50,00",
+          "img": "assets/prato5.png",
+          "status": "Completed"
+        },
+        {
+          "id": "12351",
+          "name": "Bife de frango a milanesa",
+          "price": "50,00",
+          "img": "assets/prato6.png",
+          "status": "Completed"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Fernando",
+      "obs": "trazer pimenta",
+      "optionPayment": "Dinheiro",
+      "moneyHand": "150,00",
+      "orderItems": [
+        {
+          "id": "12345",
+          "name": "Macarrão spagetti a bolonhesa",
+          "price": "35,00",
+          "img": "assets/prato1.png",
+          "status": "Completed"
+        },
+        {
+          "id": "12346",
+          "name": "Macarrão alho e oleo",
+          "price": "45,00",
+          "img": "assets/prato2.png",
+          "status": "Completed"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Fernando",
+      "obs": "trazer pimenta",
+      "optionPayment": "Cartão",
+      "moneyHand": "150,00",
+      "orderItems": [
+        {
+          "id": "12346",
+          "name": "Macarrão alho e oleo",
+          "price": "45,00",
+          "img": "assets/prato2.png",
+          "status": "Completed"
+        },
+        {
+          "id": "12345",
+          "name": "Macarrão spagetti a bolonhesa",
+          "price": "35,00",
+          "img": "assets/prato1.png",
+          "status": "Completed"
+        },
+        {
+          "id": "12347",
+          "name": "Macarrão quatro queijos",
+          "price": "55,00",
+          "img": "assets/prato3.png",
+          "status": "Completed"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Fernando",
+      "obs": "trazer pimenta",
+      "optionPayment": "Cartão",
+      "moneyHand": "150,00",
+      "orderItems": [
+        {
+          "id": "12346",
+          "name": "Macarrão alho e oleo",
+          "price": "45,00",
+          "img": "assets/prato2.png",
+          "status": "Completed"
+        },
+        {
+          "id": "12345",
+          "name": "Macarrão spagetti a bolonhesa",
+          "price": "35,00",
+          "img": "assets/prato1.png",
+          "status": "Completed"
+        },
+        {
+          "id": "12346",
+          "name": "Macarrão alho e oleo",
+          "price": "45,00",
+          "img": "assets/prato2.png",
+          "status": "Completed"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "Joao",
+      "obs": "molho de captchupe",
+      "optionPayment": "Dinheiro",
+      "moneyHand": "130,00",
+      "orderItems": [
+        {
+          "id": "12345",
+          "name": "Macarrão spagetti a bolonhesa",
+          "price": "35,00",
+          "img": "assets/prato1.png",
+          "status": "Completed"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "Nicholas, Mesa 10",
+      "obs": "Nicholas, Mesa 10",
+      "optionPayment": "Cartão",
+      "moneyHand": "",
+      "orderItems": [
+        {
+          "id": "12345",
+          "name": "Macarrão spagetti a bolonhesa",
+          "price": "35,00",
+          "img": "assets/prato1.png",
+          "status": "Completed"
+        },
+        {
+          "id": "12349",
+          "name": "Bife a cavalo com ovo frito e fritas",
+          "price": "50,00",
+          "img": "assets/prato5.png",
+          "status": "Aguardando"
+        },
+        {
+          "id": "12351",
+          "name": "Bife de frango a milanesa",
+          "price": "50,00",
+          "img": "assets/prato6.png",
+          "status": "Aguardando"
+        }
+      ],
+      "id": 8
+    }
+  ]
+}
